@@ -9,6 +9,9 @@ if (month > 2 && month < 9) {
 }
 ```
 
+## Note
+The Application doesn't work on Android Operating System
+
 ## Have Fun :star::star::star:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
